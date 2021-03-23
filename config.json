@@ -1,0 +1,32 @@
+{
+  "PERMISSIONS": {
+    "CAN_TRANSFER_COINOMAT": [
+      "BTC"
+    ],
+    "CAN_TRANSFER_TRANSACTION": true,
+    "CAN_MASS_TRANSFER_TRANSACTION": true,
+    "CAN_CREATE_ALIAS_TRANSACTION": true,
+    "CAN_ISSUE_TRANSACTION": true,
+    "CAN_REISSUE_TRANSACTION": true,
+    "CAN_SET_SCRIPT_TRANSACTION": true,
+    "CAN_LEASE_TRANSACTION": true,
+    "CAN_CANCEL_LEASE_TRANSACTION": true,
+    "CAN_BURN_TRANSACTION": true,
+    "CAN_SPONSORSHIP_TRANSACTION": true,
+    "CAN_DATA_TRANSACTION": true,
+    "CAN_CREATE_ORDER": true,
+    "CAN_CANCEL_ORDER": true,
+    "CAN_PAIRING_WITH_MOBILE": true,
+    "CAN_ANY_TRANSACTION": true
+  },
+  "SETTINGS": {
+    "DEX": {
+      "WATCH_LIST_PAIRS": [
+        "WAVES"
+      ]
+    },
+    "REFERERS": {
+      "BLACK_LIST": []
+    }
+  }
+}
