@@ -23,7 +23,9 @@
   "SETTINGS": {
     "DEX": {
       "WATCH_LIST_PAIRS": [
-        "WAVES"
+        "DGWxi46g6dSLzRJRTiyQY75bFAnSjmXUvfiNoq8Da7MT",
+        "WAVES",
+        "B259kna5DmnFeZYX8R8iq6bWhDVBZzWBExg1Xt7UcQaa"
       ]
     },
     "REFERERS": {
